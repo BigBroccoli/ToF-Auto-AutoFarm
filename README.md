@@ -1,5 +1,5 @@
 # ToF-Auto-AutoFarm
-This will automate the auto farming method for "Frontier Clash" under the challenge tab
+This will automate the auto farming method for "Frontier Clash" under the challenge tab for 1080p 24 in monitors, out of box.
 
 Description from intended user
  - Hold alt to make cursor appear
