@@ -27,7 +27,7 @@ except ImportError:
 
 # How many delay time seconds
 start_delay_time = 1
-anti_cheat_delay_time = 0.25
+anti_cheat_delay_time = 0.2
 
 # get current directory
 current_dir = os.getcwd()
